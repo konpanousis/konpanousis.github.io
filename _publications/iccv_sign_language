@@ -1,0 +1,13 @@
+---
+title: "Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end SL Translation"
+collection: publications
+category: conferences
+permalink: publication/transformer_sign_language
+excerpt: ''
+date: 2021-04-01
+venue: 'IEEE/CVF International Conference on Computer Vision (ICCV)'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2021/papers/Voskou_Stochastic_Transformer_Networks_With_Linear_Competing_Units_Application_To_End-to-End_ICCV_2021_paper.pdf'
+bibtexurl: 'https://openaccess.thecvf.com/content/ICCV2021/html/Voskou_Stochastic_Transformer_Networks_With_Linear_Competing_Units_Application_To_End-to-End_ICCV_2021_paper.html'
+codeurl: 'https://github.com/avoskou/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translatio'
+citation: 'Andreas Voskou, Konstantinos P. Panousis, Dimitrios Kosmopoulos, Dimitris N. Metaxas, Sotirios Chatzis; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 11946-11955'
+---
