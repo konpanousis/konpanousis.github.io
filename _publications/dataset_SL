@@ -1,1 +1,13 @@
-
+---
+title: "A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset"
+collection: publications
+category: conferences
+permalink: publication/dataset_SL
+excerpt: ''
+date: 2023-10-01
+venue: 'IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2023W/ACVR/papers/Voskou_A_New_Dataset_for_End-to-End_Sign_Language_Translation_The_Greek_ICCVW_2023_paper.pdf'
+bibtexurl: 'https://openaccess.thecvf.com/content/ICCV2023W/ACVR/html/Voskou_A_New_Dataset_for_End-to-End_Sign_Language_Translation_The_Greek_ICCVW_2023_paper.html'
+codeurl: 'https://zenodo.org/records/7847052'
+citation: 'Andreas Voskou, Konstantinos P. Panousis, Harris Partaourides, Kyriakos Tolias, Sotirios Chatzis; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2023, pp. 1966-1975'
+---
