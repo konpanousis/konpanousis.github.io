@@ -1,13 +1,13 @@
 ---
-title: "Local Competition and Stochasticity for Adversarial Robustness in Deep Learning"
+title: "Sparse Linear Concept Discovery Models"
 collection: publications
 category: conferences
-permalink: publication/local_competition_adversarial
+permalink: publication/sparse_linear
 excerpt: ''
-date: 2021-04-01
-venue: 'Artificial Intelligence and Statistics (AISTATS) '
-paperurl: 'http://proceedings.mlr.press/v130/panousis21a/panousis21a.pdf'
-bibtexurl: 'https://proceedings.mlr.press/v130/panousis21a'
-codeurl: 'https://github.com/konpanousis/adversarial_ecoc_lwta'
-citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Antonios Alexos, Sergios Theodoridis Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:3862-3870, 2021.'
+date: 2023-10-01
+venue: 'EEE/CVF International Conference on Computer Vision (ICCV) Workshops'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Panousis_Sparse_Linear_Concept_Discovery_Models_ICCVW_2023_paper.pdf'
+bibtexurl: 'https://openaccess.thecvf.com/content/ICCV2023W/CLVL/html/Panousis_Sparse_Linear_Concept_Discovery_Models_ICCVW_2023_paper.html'
+codeurl: 'https://github.com/konpanousis/ConceptDiscoveryModels'
+citation: 'Konstantinos Panagiotis Panousis, Dino Ienco, Diego Marcos; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2023, pp. 2767-2771'
 ---
