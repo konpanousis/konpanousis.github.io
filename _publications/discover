@@ -1,13 +1,13 @@
 ---
-title: "Local Competition and Stochasticity for Adversarial Robustness in Deep Learning"
+title: "DISCOVER: Making Vision Networks Interpretable via Competition and Dissection"
 collection: publications
 category: conferences
-permalink: publication/local_competition_adversarial
+permalink: publication/discover
 excerpt: ''
-date: 2021-04-01
-venue: 'Artificial Intelligence and Statistics (AISTATS) '
-paperurl: 'http://proceedings.mlr.press/v130/panousis21a/panousis21a.pdf'
-bibtexurl: 'https://proceedings.mlr.press/v130/panousis21a'
-codeurl: 'https://github.com/konpanousis/adversarial_ecoc_lwta'
-citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Antonios Alexos, Sergios Theodoridis Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:3862-3870, 2021.'
+date: 2023-12-01
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/55aeba84b402008d3ed10440d906b4e1-Paper-Conference.pdf'
+bibtexurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/55aeba84b402008d3ed10440d906b4e1-Abstract-Conference.html'
+codeurl: 'https://github.com/konpanousis/DISCOVER'
+citation: 'Panousis, K., & Chatzis, S. (2023). DISCOVER: Making Vision Networks Interpretable via Competition and Dissection. In Advances in Neural Information Processing Systems (pp. 27063–27078). Curran Associates, Inc..'
 ---
