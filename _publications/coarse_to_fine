@@ -1,0 +1,13 @@
+---
+title: "Coarse-to-Fine Concept Bottleneck Models"
+collection: publications
+category: conferences
+permalink: publication/coarse_to_fine
+excerpt: ''
+date: 2024-12-01
+venue: 'Advances in Neural Information Processing Systems'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/bdeab378efe6eb289714e2a5abc6ed42-Paper-Conference.pdf'
+bibtexurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdeab378efe6eb289714e2a5abc6ed42-Abstract-Conference.html'
+codeurl: 'https://github.com/konpanousis/Coarse-To-Fine-CBMs'
+citation: 'Konstantinos P. Panousis, Dino Ienco, Diego Marcos, Coarse-to-Fine Concept Bottleneck Models, In Proc. NeurIPS, 2024.'
+---
