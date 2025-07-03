@@ -1,0 +1,13 @@
+---
+title: "Stochastic Local Winner-Takes-All Networks Enable Profound Adversarial Robustness"
+collection: publications
+category: conferences
+permalink: publication/profound_robustness
+excerpt: ''
+date: 2021-10-01
+venue: 'NeurIPS Bayesian DL Workshop'
+paperurl: 'https://bayesiandeeplearning.org/2021/papers/12.pdf'
+bibtexurl: 'https://github.com/konpanousis/Adversarial-LWTA-AutoAttack'
+codeurl: 'https://github.com/konpanousis/Adversarial-LWTA-AutoAttack'
+citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Sergios Theodoridis, Stochastic Local Winner-Takes-All Networks Enable Profound Adversarial Robustness, NeurIPS Bayesian Deep Learning Workshop, 2021.'
+---
