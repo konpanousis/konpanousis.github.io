@@ -1,0 +1,13 @@
+---
+title: "Competing Mutual Information Constraints with Stochastic Competition-based Activations for Learning Diversified Representations"
+collection: publications
+category: conferences
+permalink: publication/competing_mi_constraints
+excerpt: ''
+date: 2021-04-01
+venue: 'AAAI'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/20763/20522'
+bibtexurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/20763'
+codeurl: 'https://github.com/konpanousis'
+citation: 'Panousis, K. P., Antoniadis, A., & Chatzis, S. (2022). Competing Mutual Information Constraints with Stochastic Competition-Based Activations for Learning Diversified Representations. Proceedings of the AAAI Conference on Artificial Intelligence, 36(7), 7931-7940.'
+---
