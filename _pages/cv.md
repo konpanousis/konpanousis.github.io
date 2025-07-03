@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistical Machine Learning, National and Kapodistrian University of Athens, 2020
+* M.Res. in Computational Statistics and Machine Learning, University College London, 2015
+* B.Eng. in Electronic and Computer Engineering, Technical University of Crete, 2014
 
 Work experience
 ======
