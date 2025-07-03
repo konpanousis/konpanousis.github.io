@@ -1,13 +1,13 @@
 ---
-title: "Local Competition and Stochasticity for Adversarial Robustness in Deep Learning"
+title: "Fully automatic extraction of morphological traits from the Web: utopia or reality?"
 collection: publications
-category: conferences
-permalink: publication/local_competition_adversarial
+category: journal
+permalink: publication/traitor
 excerpt: ''
-date: 2021-04-01
-venue: 'Artificial Intelligence and Statistics (AISTATS) '
-paperurl: 'http://proceedings.mlr.press/v130/panousis21a/panousis21a.pdf'
-bibtexurl: 'https://proceedings.mlr.press/v130/panousis21a'
-codeurl: 'https://github.com/konpanousis/adversarial_ecoc_lwta'
-citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Antonios Alexos, Sergios Theodoridis Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:3862-3870, 2021.'
+date: 2024-09-01
+venue: 'Applications in Plant Sciences'
+paperurl: 'https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/aps3.70005'
+bibtexurl: 'https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.70005'
+codeurl: 'https://github.com/konpanousis/AutomaticTraitExtraction'
+citation: 'Diego, M., R. van de Vlasakker, I. N. Athanasiadis, P. Bonnet, H. Goëau, A. Joly, W. D. Kissling, C. Leblanc, A. S. J. van Proosdij, and K. P. Panousis. 2025. Fully automatic extraction of morphological traits from the web: Utopia or reality? Applications in Plant Sciences 13(3): e70005. https://doi.org/10.1002/aps3.70005'
 ---
