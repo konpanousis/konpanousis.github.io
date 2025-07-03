@@ -2,12 +2,12 @@
 title: "Nonparametric Bayesian Deep Networks with Local Competition"
 collection: publications
 category: conferences
-<!--- permalink: /publication/nonparametric_bayesian_dnns -->
+permalink: 'http://proceedings.mlr.press/v97/panousis19a/panousis19a.pdf'
 excerpt: ''
 date: 2019-07-01
 venue: 'International Conference on Machine Learning'
 slidesurl: 'https://icml.cc/media/icml-2019/Slides/4566.pdf'
-paperurl: 'http://proceedings.mlr.press/v97/panousis19a/panousis19a.pdf'
+paperurl: ''
 bibtexurl: 'https://proceedings.mlr.press/v97/panousis19a'
 citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Sergios Theodoridis Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4980-4988, 2019.'
 ---
