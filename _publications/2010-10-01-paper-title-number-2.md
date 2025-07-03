@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Variational Conditional-Dependence Hidden Markov Models for Skeleton-Based Action Recognition"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: publication/conditional_dependence
+excerpt: ''
+date: 2021-10-01
+venue: 'International Symposium on Visual Computing (ISVC)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-90436-4_6'
+bibtexurl: 'https://rdcu.be/euEpP'
+codeurl: 'https://github.com/konpanousis/Variational_Conditional_Dependence_HMM'
+citation: 'Panousis, K.P., Chatzis, S., Theodoridis, S. (2021). Variational Conditional Dependence Hidden Markov Models for Skeleton-Based Action Recognition. In: Bebis, G., et al. Advances in Visual Computing. ISVC 2021. Lecture Notes in Computer Science(), vol 13018. Springer, Cham'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
