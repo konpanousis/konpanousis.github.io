@@ -1,13 +1,13 @@
 ---
-title: "Local Competition and Stochasticity for Adversarial Robustness in Deep Learning"
+title: "A Deep Learning Approach for Dynamic Balance Sheet Stress Testing"
 collection: publications
 category: conferences
-permalink: publication/local_competition_adversarial
+permalink: publication/balance_sheet
 excerpt: ''
-date: 2021-04-01
-venue: 'Artificial Intelligence and Statistics (AISTATS) '
-paperurl: 'http://proceedings.mlr.press/v130/panousis21a/panousis21a.pdf'
-bibtexurl: 'https://proceedings.mlr.press/v130/panousis21a'
-codeurl: 'https://github.com/konpanousis/adversarial_ecoc_lwta'
-citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Antonios Alexos, Sergios Theodoridis Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:3862-3870, 2021.'
+date: 2022-11-01
+venue: 'International Conference on AI in Finance (ICAIF)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3533271.3561656'
+bibtexurl: 'https://dl.acm.org/doi/abs/10.1145/3533271.3561656'
+codeurl: 'https://github.com/konpanousis/'
+citation: 'Anastasios Petropoulos, Vassilis Siakoulis, Konstantinos P. Panousis, Loukas Papadoulas, and Sotirios Chatzis. 2022. A Deep Learning Approach for Dynamic Balance Sheet Stress Testing. In Proceedings of the Third ACM International Conference on AI in Finance (ICAIF '22). Association for Computing Machinery, New York, NY, USA, 53–61. https://doi.org/10.1145/3533271.3561656'
 ---
