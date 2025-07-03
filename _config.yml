@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Konstantinos P. Panousis"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at Athens University of Economics and Business"
+  bio              : "Assistant Professor in Statistical Machine Learning"
   location         : "Athens"
-  employer         : "Red Brick University"
+  employer         : "Athens University of Economics and Business"
   uri              : # URL
   email            : "none@example.org" 
 
