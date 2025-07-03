@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Konstantinos P. Panousis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Assistant Professor at Athens University of Economics and Business"
+  location         : "Athens"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
