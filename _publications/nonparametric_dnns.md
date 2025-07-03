@@ -2,7 +2,7 @@
 title: "Nonparametric Bayesian Deep Networks with Local Competition"
 collection: publications
 category: conferences
-permalink: 
+permalink: nonparametric_dnns
 excerpt: ''
 date: 2019-07-01
 venue: 'International Conference on Machine Learning'
