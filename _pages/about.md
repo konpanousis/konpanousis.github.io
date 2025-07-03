@@ -15,6 +15,5 @@ I'm an assistant professor in the Statistics Department at the Athens University
 # Contact
 ---
 
-Email: panousis [AT] aueb [dot] gr
-
+Email: panousis [AT] aueb [dot] gr <br>
 Address: Kodringktonos 12, Athens, Greece
