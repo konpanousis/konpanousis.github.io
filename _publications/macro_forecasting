@@ -1,13 +1,13 @@
 ---
-title: "Local Competition and Stochasticity for Adversarial Robustness in Deep Learning"
+title: "Macroeconomic forecasting and sovereign risk assessment using deep learning techniques"
 collection: publications
 category: conferences
-permalink: publication/local_competition_adversarial
+permalink: publication/macro
 excerpt: ''
-date: 2021-04-01
-venue: 'Artificial Intelligence and Statistics (AISTATS) '
-paperurl: 'http://proceedings.mlr.press/v130/panousis21a/panousis21a.pdf'
+date: 2023-04-01
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2301.09856'
 bibtexurl: 'https://proceedings.mlr.press/v130/panousis21a'
-codeurl: 'https://github.com/konpanousis/adversarial_ecoc_lwta'
-citation: 'Konstantinos P. Panousis, Sotirios Chatzis, Antonios Alexos, Sergios Theodoridis Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:3862-3870, 2021.'
+codeurl: 'https://github.com/konpanousis/'
+citation: 'Anastasios Petropoulos, Vassilis Siakoulis, Konstantinos P. Panousis, Loukas Papadoulas, & Sotirios Chatzis. (2023). Macroeconomic forecasting and sovereign risk assessment using deep learning techniques, ArXiv 2023.'
 ---
